@@ -1,15 +1,15 @@
-# WEB AUTOMATION - J O B M A R K E T A P P L I C A T I O N
-A project I made using selenium and python to search for prices of selected products
+# AUTOMAÇÃO WEB - A P L I C A Ç Ã O D E M E R C A D O D E T R A B A L H O
+ Projeto que fiz usando selenium e python para pesquisar precos de produtos selecionados
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaosnet/AutomacaoWeb?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/joaosnet/AutomacaoWeb?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/joaosnet/AutomacaoWeb?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joaosnet/AutomacaoWeb?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaosnet/AutomacaoWeb?style=for-the-badge)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/joaosnet/AutomacaoWeb/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/joaosnet/AutomacaoWeb/blob/master/README.md)
 
 <img src="https://github.com/joaosnet/AutomacaoWeb/blob/main/screenshots/1.png"/>
- 
+
 ## ☕ Usando no windows
 1. Instale o [anaconda](https://docs.anaconda.com/free/anaconda/install/windows.html)
 2. Crie um ambiente virtual
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## 🤝 Contributors
+## 🤝 Colaboradores
 
 <table>
   <tr>
